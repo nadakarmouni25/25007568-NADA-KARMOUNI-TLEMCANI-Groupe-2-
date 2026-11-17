@@ -1,0 +1,18 @@
+# Données FRED (redistribution limitée) : à retélécharger avec le notebook
+data/raw/SP500.csv
+
+# Fichiers temporaires Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environnements virtuels
+.venv/
+venv/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Secrets (ne jamais déposer de clé ou de mot de passe)
+.env
