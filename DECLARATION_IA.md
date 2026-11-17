@@ -2,7 +2,7 @@
 
 **Nom :** Nada Karmouni Tlemçani
 **Code Apogée :** 25007568
-**Groupe :** À COMPLÉTER
+**Groupe :** G2 FIN
 **Projet :** F8 — Battre la marche aléatoire (S&P 500)
 **Module :** BD & DS — Contrôle continu Partie B, ENCG Settat, S7
 
